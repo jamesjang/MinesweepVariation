@@ -1,5 +1,5 @@
 # MinesweepVariation
-[Unity] School Assignment 
+[C#] School Assignment 
 
 1) Since an applicant is usually applying for a job working with the platform in which the game should be made, your instructor will tell you the platform
 
